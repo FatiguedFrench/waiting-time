@@ -1,0 +1,51 @@
+{
+	"anno_riferimento": 2023,
+	"lista_apiari": [
+		{
+			"apicoltori": [
+				{
+					"id": 101,
+					"nominativo": "Mario Rossi"
+				},
+				{
+					"id": 202,
+					"nominativo": "Mario Bianchi"
+				}
+			],
+			"numero_arnie": 15,
+			"posizione": {
+				"comune": "Zogno",
+				"provincia": "BG",
+				"regione": "Lombardia"
+			},
+			"produzione": {
+				"denominazione": "Miele di Castagno",
+				"tipologia": "Identita' Territoriale",
+				"quantita_kg": 250.5
+			}
+		},
+		{
+			"apicoltori": [
+				{
+					"id": 110,
+					"nominativo": "Luca Rossi"
+				},
+				{
+					"id": 220,
+					"nominativo": "Luca Bianchi"
+				}
+			],
+			"numero_arnie": 10,
+			"posizione": {
+				"comune": "Montalcino",
+				"provincia": "SI",
+				"regione": "Toscana"
+			},
+			"produzione": {
+				"denominazione": "Miele della Val d'Orcia",
+				"tipologia": "DOP",
+				"quantita_kg": 180.0
+			}
+		}
+	]
+}
