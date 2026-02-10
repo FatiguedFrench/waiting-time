@@ -9,5 +9,5 @@ La fase di countdown e le operazioni di gestione dati devono essere gestite tram
 L'accesso al file miele.json deve essere regolato per evitare concorrenza tra lettura e scrittura
 Il codice deve seguire i principi della programmazione a oggetti, separando la logica dei dati (classe Modello) dalla gestione dei file.
 
-4. Requisiti di Dominio
+# Requisiti di Dominio
 Ogni apiario è definito da una posizione geografica (comune, provincia, regione) e da una produzione specifica (quantità in kg, tipologia di miele).
